@@ -1,3 +1,3 @@
 export default function MyFirstBlog() {
-    return <h1>My first blog</h1>
+    return <h1>My First Blog Page</h1>
 }
